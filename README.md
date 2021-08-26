@@ -23,6 +23,7 @@ An example showing the inputs and outputs of the tasks mentioned above. For each
 - 2021-First Target and Opinion then Polarity- Enhancing Target-opinion Correlation for Aspect Sentiment Triplet Extraction [paper](https://arxiv.org/abs/2102.08549)
 - 2021-Explicit Interaction Network for Aspect Sentiment Triplet Extraction [paper](https://arxiv.org/pdf/2106.11148.pdf)
 - 2021-acl-findings-Semantic and Syntactic Enhanced Aspect Sentiment Triplet Extraction [paper](https://aclanthology.org/2021.findings-acl.128.pdf)
+- 2021-acl-Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction [paper](https://aclanthology.org/2021.acl-long.367.pdf) [code](https://github.com/chiayewken/Span-ASTE)
 - 2021-cikm-Aspect Sentiment Triplet Extraction Using
 Reinforcement Learning [paper](https://arxiv.org/pdf/2108.06107.pdf)
 

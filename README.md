@@ -19,13 +19,13 @@ An example showing the inputs and outputs of the tasks mentioned above. For each
 - 2020-emnlp-Position-Aware Tagging for Aspect Sentiment Triplet Extraction [paper](https://aclanthology.org/2020.emnlp-main.183.pdf) [code](https://github.com/xuuuluuu/Position-Aware-Tagging-for-ASTE)
 - 2020-nlpcc-Hierarchical Sequence Labeling Model for Aspect Sentiment Triplet Extraction [paper](https://link.springer.com/chapter/10.1007/978-3-030-60450-9_52)
 - 2021-aaai-A Joint Training Dual-MRC Framework for Aspect Based Sentiment Analysis [paper](https://www.aaai.org/AAAI21Papers/AAAI-5353.MaoY.pdf)
-- 2021-aaai-Bidirectional Machine Reading Comprehension forAspect Sentiment Triplet Extraction [paper](https://arxiv.org/pdf/2103.07665.pdf)
+- 2021-aaai-Bidirectional Machine Reading Comprehension for Aspect Sentiment Triplet Extraction [paper](https://arxiv.org/pdf/2103.07665.pdf) [code](https://github.com/NKU-IIPLab/BMRC)
 - 2021-First Target and Opinion then Polarity- Enhancing Target-opinion Correlation for Aspect Sentiment Triplet Extraction [paper](https://arxiv.org/abs/2102.08549)
 - 2021-Explicit Interaction Network for Aspect Sentiment Triplet Extraction [paper](https://arxiv.org/pdf/2106.11148.pdf)
 - 2021-acl-findings-Semantic and Syntactic Enhanced Aspect Sentiment Triplet Extraction [paper](https://aclanthology.org/2021.findings-acl.128.pdf)
 - 2021-acl-Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction [paper](https://aclanthology.org/2021.acl-long.367.pdf) [code](https://github.com/chiayewken/Span-ASTE)
 - 2021-cikm-Aspect Sentiment Triplet Extraction Using
-Reinforcement Learning [paper](https://arxiv.org/pdf/2108.06107.pdf)
+Reinforcement Learning [paper](https://arxiv.org/pdf/2108.06107.pdf) [code](https://github.com/declare-lab/ASTE-RL)
 
 # ASOTE
 - 2021-A More Fine-Grained Aspect-Sentiment-Opinion Triplet Extraction Task [paper](https://arxiv.org/abs/2103.15255) [code](https://github.com/l294265421/ASOTE)

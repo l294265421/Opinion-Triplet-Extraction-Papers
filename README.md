@@ -7,6 +7,7 @@ There are some relevant tasks:
 - ATE (Aspect Term Extraction) extracts aspects from sentences.
 - TOWE (Target-oriented Opinion Words Extraction) extracts opinions associated with a given aspect in a sentence. 
 - ATSA (Aspect Term Sentiment Analysis) predicts the sentiment that a sentence expresses toward a given aspect.
+- Aspect-Opinion Pair Sentiment Classification (AOPSC) predicts the sentiment of a (aspect term, opinion term) in a sentence.
 
 An example showing the inputs and outputs of the tasks mentioned above. For each arrow, when the head is a task name, the tail is an input of the task; when the tail is a task name, the head is an output of the task. The bold words are aspects. The underlined words are opinions.
 
